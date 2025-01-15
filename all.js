@@ -26,3 +26,5 @@ let i = false;
 let j = 1 == h;
 let k = h || i;
 //Ans:j true ; k true
+
+console.log(c, g, j, k);
