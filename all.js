@@ -36,10 +36,9 @@ if(weather==="雨天"){
 let myBMI = 19;
 
 /* 請試著寫出判斷式 */
-
-if( ??? ) {
+if( myBMI > 24 ) {
   console.log('過重');
-} else if( ??? ) {
+} else if( myBMI >=18 && myBMI <=24 ) {
   console.log('體重正常');
 } else {
   console.log('過輕');
