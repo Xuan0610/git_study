@@ -54,7 +54,7 @@ if( a >= b ){
 } else {
  console.log('a 不等於 b');
 }
-
+// Ans: a 等於 b
 
 //第二題
 let c = false;
@@ -64,7 +64,7 @@ if(!c){
 } else {
  console.log('六角學院 讚讚！');
 }
-
+// Ans: 六角學院 讚！
 
 //第三題
 let d = 100;
@@ -76,3 +76,4 @@ if(d == '100'){
 } else {
  console.log('錯！');
 }
+// Ans: 沒錯！
