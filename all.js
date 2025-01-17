@@ -43,3 +43,36 @@ if( myBMI > 24 ) {
 } else {
   console.log('過輕');
 }
+
+//Day 10 - if、else if、else 練習二
+//第一題
+let a = 10;
+let b = '10';
+
+if( a >= b ){
+ console.log('a 等於 b');
+} else {
+ console.log('a 不等於 b');
+}
+
+
+//第二題
+let c = false;
+
+if(!c){
+ console.log('六角學院 讚！');
+} else {
+ console.log('六角學院 讚讚！');
+}
+
+
+//第三題
+let d = 100;
+
+if(d == '100'){
+ console.log('沒錯！');
+} else if ( d != '100') {
+ console.log ('這陷阱題！');
+} else {
+ console.log('錯！');
+}
